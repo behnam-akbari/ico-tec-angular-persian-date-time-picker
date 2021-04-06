@@ -1,0 +1,36 @@
+{
+  "name": "ico-tec-angular-persian-date-time-picker",
+  "version": "0.0.1",
+  "description": "Persian and gregorian DateTimePicker with angular and materials",
+  "license": "MIT",
+  "moduleResolution": "node",
+  "private": false,
+  "author": {
+    "email": "icotec@yahoo.com",
+    "name": "Behnam Akbari",
+    "phone": "+98-936-529-43-36",
+    "url": "https://github.com"
+  },
+  "repository": {
+    "type": "public",
+    "url": "https://github.com"
+  },
+  "homepage": "https://github.com",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+  },
+  "main": "bundles/ico-tec-angular-persian-date-time-picker.umd.js",
+  "module": "fesm5/ico-tec-angular-persian-date-time-picker.js",
+  "es2015": "fesm2015/ico-tec-angular-persian-date-time-picker.js",
+  "esm5": "esm5/ico-tec-angular-persian-date-time-picker.js",
+  "esm2015": "esm2015/ico-tec-angular-persian-date-time-picker.js",
+  "fesm5": "fesm5/ico-tec-angular-persian-date-time-picker.js",
+  "fesm2015": "fesm2015/ico-tec-angular-persian-date-time-picker.js",
+  "typings": "ico-tec-angular-persian-date-time-picker.d.ts",
+  "metadata": "ico-tec-angular-persian-date-time-picker.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
